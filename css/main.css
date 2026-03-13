@@ -335,7 +335,6 @@ button {
 
 .conti-text-wrap {
   display: flex;
-  height: 400px;
   flex-direction: column;
   width: 400px;
   padding: 20px;
